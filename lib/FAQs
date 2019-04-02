@@ -1,0 +1,2 @@
+Update Data in an Existing Document:
+Firestore.instance.collection('users').document('QV7b5SlZs28y0xAoaSNw').updateData({ 'email': email, 'mobile_number':number });
